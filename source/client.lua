@@ -14,7 +14,7 @@ end)
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(1)
-        local locations = config.locations
+        local locations = Config.Locations
         for i = 1, #locations do
             local x = locations[i][1];
             local y = locations[i][2];
