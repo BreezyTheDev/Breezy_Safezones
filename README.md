@@ -23,6 +23,9 @@ The following can be found in the ``config.lua`` file.
 ## Download
 https://github.com/BreezyTheDev/Breezy_Safezones
 
+## Preview
+https://youtu.be/XdEhVeF2TIw
+
 ## Errors or Suggestions?
 Please message me on discord if you come across any errors when using this resource or if you would like to make a suggestion.
 Discord: `Breezy#0001`
