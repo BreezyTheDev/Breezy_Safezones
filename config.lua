@@ -10,7 +10,7 @@ Config = {
     Radius = 50,
     Locations = {
         -- Set the locations you wish to be a safezone.
-        -- Format: {XCoord, YCoord, ZCoord, Radius}
+        -- Format: {XCoord, YCoord, ZCoord}
         {1850.04, 3687.3, 32.47}, -- Sandy PD
     }
 }
